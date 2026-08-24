@@ -1,0 +1,342 @@
+# Inventory: 01-kickstart
+
+assignment: 01-kickstart
+files: 11
+dirs: ics-course/01-kickstart/01-introduction/ (4), ics-course/01-kickstart/02-catalyst/ (7)
+
+**Highlights**
+- Locus of control / "success is a symptom of the right processes" — foundational reframe, drives all downstream motivation content.
+- Three spheres of skills: Learning / Enablers / Growth — top-level taxonomy the whole program (and program sequencing) is built on; Growth = rate-limiter for the other two.
+- Encoding vs retrieval as the two key learning processes; retrieval prioritized first because faster to train, encoding has bigger long-term payoff but slow.
+- Higher-order vs lower-order learning (schema-building vs isolated facts) — canonical table in 02-deep-processing.md, referenced program-wide.
+- Deep processing 4-level diagnostic (1-4) + 4 training phases (Understanding/Awareness → Aligning Technique → Refining/Deepening → Integration/Mastery), phase timing 4-9 months for phase 4.
+- "Deep processing tanking" — genius/high-innate-ability learners compensate for weak technique; explains why same technique yields different results across learners.
+- 4 requirements to lock a learning asset: Understand → Remember → Apply correctly → Perform consistently under pressure.
+- Two "laws of growth": (1) Lock in learning assets (master 1-2 techniques at a time); (2) Learn from the right teacher (declarative/procedural/conditional knowledge; fail fast/fail safe via mistakes).
+- 1:5 theory:practice ratio rule — for every 1hr learning a technique, ≥5hrs applying it; complexity increases exponentially when multiple techniques introduced at once.
+- Mindset diagnostic (Level 1-4) + CPJ Framework (Conclusion / Process / Journey) for reframing mistakes; mindset program-wide data: ~60% of learners start at Level 1; improvement demonstrated in 60 days across 5000+ learners; strongest correlate of academic confidence/performance gains.
+- Self-regulation = metacognition-driven monitoring/adjusting; "technique decline" failure mode (skilled learners get complacent, effectiveness silently erodes).
+- Self-regulation 3 requirements: Fostering metacognition, Embracing desirable difficulty, Getting book smart (theory of learning/self-management).
+- Retrieval diagnostic (Level 1-4); retrieval-deep-processing bidirectional relationship (deep processing gates retrieval quality; harder retrieval trains deep processing).
+- Self-management diagnostic (Level 1-4); >90% of scheduling/procrastination/prioritization problems addressed in first few program stages; "reality check" 5-step procedure (schedule → track → compare → identify barriers → accept/address).
+- Two-phase program structure: High-Yield Phase (fast, foundational, moderate impact) vs Growth Phase (slow, reshapes cognitive habits, high impact) — explicit sequencing rationale.
+- Theory-practice ratio for skill acquisition (pie-chart figures): perceived 75% theory/25% practice vs actual ~15% basic theory clarity + 20% practice-to-find-errors + 10% deepening + 55% more practice/challenge — Theory-Practice Cycle as "true engine of improvement."
+
+---
+
+## ics-course/01-kickstart/01-introduction/01-welcome.md
+- **stage**: Kickstart phase, Introduction stage, lesson 1 of 4 (opening lesson of entire program)
+- **role**: welcome / orientation lesson, pure motivational framing, no technique content
+- **terms**:
+  - none introduced as constructs; frames "intelligence" as trainable skill-set, not innate
+- **claims**:
+  - Intelligence is not innate; it's trainable skills/habits/ways of thinking.
+  - Program goal: teach how to think/process/structure knowledge + build an owned, adaptable "learning system."
+- **relations**: forward reference — next lesson is "Golden Rule of becoming an ultra-learner"
+- **sophistication**: introductory, pure onboarding
+- **scaffold**: heavy coaching/motivation voice, "meet the team" link, empathy framing (burnout/frustration acknowledged); PURE SCAFFOLDING (no technique/procedure content)
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:TZMTwuLV, DRM, not captured); text stands alone as onboarding copy, no named technique left unexplained — low risk gap
+
+## ics-course/01-kickstart/01-introduction/02-golden-rule-of-learning.md
+- **stage**: Kickstart / Introduction, lesson 2 of 4
+- **role**: lesson — core mindset reframe ("golden rule")
+- **terms**:
+  - **locus of control** — the boundary between what you can/can't influence; direct energy only at controllable factors.
+- **claims**:
+  - Outcomes (grades, competition, external validation) are outside personal control; fixating on them wastes energy and increases stress.
+  - Getting processes right makes success more probable (does not guarantee it) — "success is a symptom of the right processes."
+  - Hard work is necessary but not the deciding factor; the *type* of work differentiates top learners.
+  - Stopping a harmful habit is more within locus of control (and often higher leverage) than learning a brand-new skill ("do no harm").
+- **relations**: forward reference — next lesson covers how top performers think about learning
+- **sophistication**: introductory framing, foundational mindset primitive reused later (mindset lesson, self-management lesson both reference locus of control implicitly)
+- **scaffold**: coaching voice, 2 KEY MESSAGE callouts ("The deciding factor", "Do no harm"); mostly scaffolding/reframe, minimal technique
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:EmCoMlVF, DRM, not captured); no named-but-unexplained technique — low risk gap
+
+## ics-course/01-kickstart/01-introduction/03-how-top-performers-think-about-learning.md
+- **stage**: Kickstart / Introduction, lesson 3 of 4
+- **role**: lesson — reframes top learners as "learning engineers"
+- **terms**:
+  - **learning engineer** — someone who takes control of learning by understanding the mechanics of how learning happens in the brain, rather than blindly applying techniques.
+  - **learning system** — a layered set of multiple techniques (not a single method) applied strategically per learning challenge.
+- **claims**:
+  - Top learners build a system of layered techniques rather than relying on one method.
+  - Top learners open the "black box" of learning mechanics instead of blind technique application.
+  - Without a systems perspective, learners cycle through frustration: ineffective techniques, harder work without improvement, reliance on luck.
+  - Understanding how learning works → sense of control + ability to confidently self-improve.
+- **relations**: forward reference — next lesson "opens the black box" and previews the "robust and adaptable learning system" to be built
+- **sophistication**: introductory, conceptual framing only, no mechanism detail yet
+- **scaffold**: "Key takeaways" callout box, coaching voice, "What's Next" navigation
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:lTuRmCoO, DRM, not captured); no named-but-unexplained technique — low risk gap
+
+## ics-course/01-kickstart/01-introduction/04-opening-the-black-box-of-learning.md
+- **stage**: Kickstart / Introduction, lesson 4 of 4 (closes Introduction stage)
+- **role**: lesson — program's top-level conceptual architecture; sets up diagnostic assessment next
+- **terms**:
+  - **Three spheres of skills**: (1) **Learning** — cognitive skills/habits/techniques to process and retain information; (2) **Enablers** — time management, attention control, procrastination regulation, goal setting, task prioritization, ensuring consistent application of learning practices; (3) **Growth** — rate/effectiveness of changing mental/behavioral habits and improving learning processes over time (reflective practice, learning from mistakes, structured improvement).
+  - **encoding** — learning process that produces biggest long-term change but is slow to train.
+  - **retrieval** — learning process, faster to train, prioritized first; exposes higher-order thinking patterns useful before encoding work.
+  - **higher-order learning** — forms schemas of integrated knowledge; more efficient, better retention/mastery.
+  - **lower-order learning** — learning in isolation; no schema formation; fast forgetting, needs time-consuming repetition.
+- **claims**:
+  - Growth skills are the rate-limiter to improvement in all other spheres → highest-leverage sphere.
+  - Learning is fundamentally an information-processing system, measurable via retention and quality/mastery.
+  - Higher-order learning (schema formation) is more efficient than lower-order (isolated) learning.
+  - Cognitive habits are retrainable via deliberate practice + targeted strategies.
+  - Learning divides (simplified) into encoding and retrieval; encoding = bigger long-term change but slow to train; therefore prioritize higher-order retrieval first.
+- **procedures**:
+  - Program sequencing rationale (3 ordered steps): (1) ensure enabler skills are strong first — removes consistency rate-limiters; (2) develop growth mindset + reflective skills — prevents technique-learning from being wasted; (3) improve retrieval practice — fills foundational gaps, exposes higher-order thinking patterns that ease later encoding work.
+- **relations**: forward reference — next is the diagnostic learning assessment across "five key dimensions" (deep processing, mindset, self-regulation, retrieval, self-management — matches the 5 lessons in 02-catalyst/); this file is the conceptual scaffold the whole 02-catalyst/ diagnostic sequence hangs off.
+- **sophistication**: introductory/simplified — text explicitly flags encoding/retrieval split as "simplified"; canonical/deeper treatment deferred to later stages.
+- **scaffold**: "Key takeaways" callout, KEY MESSAGE box on program structure rationale, forward-navigation to diagnostic assessment
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:0MEXWB5M, DRM, not captured); no named-but-unexplained technique — low risk gap
+
+## ics-course/01-kickstart/02-catalyst/01-transforming-how-you-learn.md
+- **stage**: Kickstart / Catalyst stage, lesson 1 of 7; multi-page capture (3 pages: "Transforming How You Learn", "Lock In Learning Assets" [First law], "Learn From the Right Teacher" [Second law])
+- **role**: lesson set — habit-change framing + two "laws of growth" for technique acquisition
+- **terms**:
+  - **learning asset** — a skill/habit/process that continuously benefits future learning (faster/easier/more effective); becomes an asset only once truly owned/controlled, not merely encountered.
+  - **First law of learning: Lock in learning assets** — focus deeply on 1-2 techniques at a time until locked in before moving on.
+  - **Second law of learning: Learn from the right teacher** — mastery requires declarative + procedural + conditional knowledge; mistakes are the primary teacher.
+  - **declarative knowledge** — knowing facts/theory (what).
+  - **procedural knowledge** — knowing how to perform (skill execution).
+  - **conditional knowledge** — knowing when/why to apply (context-sensitivity).
+- **claims**:
+  - Learning habits are neurologically ingrained: advantage (permanence once good) vs challenge (existing bad habits resist replacement).
+  - Practice is not additive time — it replaces current study methods; treating it as "extra" causes technique abandonment.
+  - Trying to support multiple conflicting habit-sets simultaneously fails; must replace/upgrade incrementally.
+  - Progress > potential: successful learners focus on continuous small improvement, not overnight expert leaps.
+  - Quality of habits/systems (not innate intelligence) is what separates successful learners.
+  - Complexity of learning increases exponentially when multiple new techniques are introduced simultaneously (harder to isolate/refine mistakes).
+  - Mistakes reveal personal tendencies/barriers; over-reliance on questions/theory (vs practicing) delays progress.
+  - "Fail fast, fail safe" — make small mistakes early to avoid larger ones later.
+  - "Perfection is when there are no more mistakes to make" — mistakes as the terminal diagnostic signal, not a thing to avoid preemptively.
+- **procedures**:
+  - **4 requirements to lock a learning asset**: 1. Understand how/why it works. 2. Remember it well enough to use when needed. 3. Apply it correctly in real situations. 4. Perform it consistently and easily, even under pressure.
+  - **Rules for developing learning assets**: focus on 1-2 techniques at a time; refine/reinforce until habitual; only advance once locked in.
+  - **Guidelines for skill mastery (Second law)**: 1. Master theory as best you can (don't try to forecast every possible mistake). 2. Move from theory to practice once you have a "working understanding" (not full mastery). 3. Use mistakes as a diagnostic tool — identify, analyze, refine, iterate.
+- **criteria**:
+  - **Theory:practice ratio = 1:5** — for every 1 hour learning a new technique, spend ≥5 hours applying it.
+- **failure-modes**:
+  - Overloading on theory without enough practice (most common beginner mistake).
+  - Introducing multiple techniques at once → exponential complexity, harder to isolate/fix errors.
+  - Treating practice as "extra" work instead of a replacement for current methods → old habits persist, techniques get abandoned.
+  - Trying to run conflicting habit systems in parallel.
+  - Chasing an idealized future self instead of incremental progress ("potential" trap).
+  - Over-relying on questions/theory before attempting practice — delays progress.
+- **tables**: none
+- **figures**:
+  - `Get Help screenshot wide.png` — screenshot of "Get Help" button location (bottom-left menu); illustrates support-access UI, not a technique diagram.
+- **relations**: builds directly on 01-introduction/04 "encoding/retrieval" and "learning system" framing; sets up all 5 subsequent catalyst diagnostic lessons (each teaches how its dimension becomes a "learning asset"); forward reference to next lesson on "key knowledge types" (declarative/procedural/conditional, expanded here already for the second law).
+- **sophistication**: introductory but introduces durable canonical constructs (learning asset, 2 laws, 3 knowledge types) reused conceptually throughout program.
+- **scaffold**: coaching voice throughout, "Get Help" navigation pointer, accordion-style sub-lesson structure, "Finish Sublesson" progress-gating markers, "Key takeaways" callouts
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:Vxo14T39, DRM, not captured) on main page; sub-pages ("Lock In Learning Assets", "Learn From the Right Teacher") are recovered-from-rendered-page text with no video marker of their own — content appears complete/self-contained, low risk gap
+
+## ics-course/01-kickstart/02-catalyst/02-deep-processing.md
+- **stage**: Kickstart / Catalyst, lesson 2 of 7; first of 5 diagnostic-dimension lessons
+- **role**: lesson + personalized-diagnostic-result content (4 score-branch variants, all captured) + training-challenge task
+- **terms**:
+  - **deep processing** — brain's ability to extract meaningful learning from information; spectrum from shallow (rote/repeat/isolated understanding) to deep (critical analysis, connection, critique, linking to prior knowledge).
+  - **deep processing tanking** — high-innate-processing ("genius") learners compensate for mediocre technique via raw processing ability; explains why identical techniques yield different results across learners; insufficient alone for sufficiently hard goals.
+  - **schema** — mental framework brain uses to organize knowledge (introduced here, used program-wide).
+  - **higher-order learning** (revisited/table-ified here) vs **lower-order learning**.
+  - 4 training phases: **Understanding & awareness**, **Aligning your technique**, **Refining & deepening**, **Integration & mastery**.
+- **claims**:
+  - Key learning driver = cognitive processes triggered, not the stimuli themselves.
+  - Deep processing is heavily influenced by genetics/early-childhood but is trainable via consistent deliberate practice.
+  - Higher deep-processing tanking is not sufficient for sufficiently challenging goals — even "geniuses" must train other dimensions.
+  - Cognitive habits process information automatically (can't consciously control every aspect); changing habits requires targeted experience, not just instruction/intention (tennis analogy: scaffold skills → drill in isolation → integrate → fluency/automaticity).
+  - Retrieval practice (defined via cross-ref) is one core part of the deep-processing/higher-order-learning training loop.
+- **procedures**:
+  - **Deep processing challenge task**: 1. Take a set of keywords to learn (recommend 10-20). 2. Engage with each processing level in turn, identify comfortable level. 3. At each level note difficulty, brain activity, confidence in depth/retention. 4. Once current level known, identify next level. 5. Going forward, operate at next level; notice/self-correct drops into lower levels (esp. when tired/rushed).
+  - **7 levels (from video summary, "recap of the levels")**: 1. Memorise. 2. Try to understand. 3. Rate importance of each keyword. 4. Group keywords by similarity. 5. Find different kinds of groups (different similarity bases). 6. Rate importance/relevance of different group-kinds, pick best. 7. Connect groups to show mutual influence.
+- **criteria**:
+  - 4-level diagnostic scale (Level 1-4) for deep processing, each with distinct habit/feeling profile and "opportunity ahead" framing.
+  - Phase 1-2 development starts "within the first few stages of the program."
+  - Phase 3 starts "from approximately the 6th and 7th stage of the program onwards," continues weeks-to-months.
+  - Phase 4 mastery: focus begins "after approximately 4 to 9 months"; can take months to years depending on aptitude/diligence; technically startable "from the middle of the program onward" but actual start depends on practice level/consistency/accuracy in prior phases.
+  - Recommended keyword set size for challenge task: 10-20 keywords.
+- **failure-modes**:
+  - Level 1 habits: rereading (reinforces recognition, not understanding), copying/highlighting without analysis, isolated fact memorization, attempted-but-failed connections.
+  - Level 2 habits: understanding topics in isolation, unsystematic connection-making, surface-level pattern spotting, task-completion focus without evaluating understanding, repetition-based review without restructuring.
+  - Diagnostic signal across low levels: frustration when effort doesn't pay off, inability to see big picture, disengagement from "meaningless" tasks, plateau despite technique changes, inability to solve tricky problems others solve easily.
+  - Even Level 4 learners have a failure mode: redundant/unnecessary processes not yet pruned from their system, limiting efficiency gains.
+- **examples**: none (personalized diagnostic narrative substitutes for worked examples); tennis analogy used as illustrative device for skill-scaffolding, not a worked learning example.
+- **tables**:
+  - Higher-order vs lower-order learning: rows = What / How / Examples; columns = Higher-order (relationship-network-building via comparing + judging importance of similarities/differences; example self-questions: "How is this related?", "similar/different to what I know?", "analogy?", "big picture fit?", "function?", "trends?") vs Lower-order (absence of higher-order; repetition/memorization/isolated understanding driven; example self-questions: "What is the meaning?", "What are they trying to say?", "I feel this is important, repeat to remember").
+- **figures**:
+  - `CleanShot 2025-02-27 at 21.37.06@2x.png` — "spectrum of information processing" diagram (shallow↔deep processing spectrum).
+- **relations**: cross-references 01-introduction/04-opening-the-black-box-of-learning.md explicitly (defines retrieval practice, links via inline URL). Table is flagged as a persistent reference: "You can come back to this page to refer to this throughout your training journey" — canonical reusable artifact. Phase 3 explicitly ties to "Growth phase" (program's phase 2, defined in 07-upgrading-your-dimensions.md).
+- **sophistication**: diagnostic-personalized content is introductory/level-specific; the higher/lower-order table and 4-phase model are presented as canonical/persistent reference framework.
+- **scaffold**: heavy — 4 parallel score-branch narratives (habits/feelings/opportunity per level), 2 conditional KEY MESSAGE boxes (challenge recommended vs not, mutually exclusive based on score), accordion "Click through panels," recommended-practice-task block, tennis analogy for motivation
+- **video-gap**: 2 [VIDEO]/[PAGE VIDEO] markers total (jw:8cMdaXTP page video; jw:RvB9AQNj challenge video), both DRM/not captured. CRITICAL: the "7 levels" list is explicitly labeled "Summary of the levels from the video" — full explanatory content of what distinguishes/how-to-execute each level lives in the uncaptured challenge video; the written page only gives the terse list, not the mechanism. Likely load-bearing gap.
+
+## ics-course/01-kickstart/02-catalyst/03-mindset.md
+- **stage**: Kickstart / Catalyst, lesson 3 of 7; diagnostic-dimension lesson
+- **role**: lesson + personalized diagnostic result (4 score branches) + research citations + training-challenge task
+- **terms**:
+  - **growth mindset** — belief that abilities/intelligence/identity can grow; frames challenges as opportunities, mistakes as feedback, success as actively created.
+  - **fixed mindset** — belief traits are static; defines self by past achievement/limitation, avoids challenge, requires high certainty before attempting new things.
+  - **CPJ Framework** — Conclusion (the false "therefore I am..." self-statement after an event) / Process (what specific processes led to the event) / Journey (list of actionable improvements to try next time).
+  - 4 mindset training phases: **Building awareness**, **Learning to fall**, **Getting up and getting better**, **Enjoying the ride**.
+  - 4 habit-sets for growth mindset: **Awareness & recognition**, **Process-oriented thinking**, **Emotional self-regulation**, **Reflection & adaptation**.
+- **claims**:
+  - Mindset acts as a perceptual filter ("tinted glasses") shaping what's noticed, how it's interpreted, and resulting actions.
+  - Mindset origin: environmental, esp. praise type in formative years — praising intelligence → fixed mindset; praising effort/strategy → growth mindset (cites Mueller & Dweck 1998).
+  - Parental mindset propagates: fixed-mindset parents (esp. mothers, per cited study) → more controlling, performance-emphasizing behavior → harms child motivation/challenge-approach; growth-mindset parents → encourage exploration/mistake-learning.
+  - Culture/society prioritizing mastery over performance cultivates growth mindset; high-competition/high-cost-of-failure environments make growth mindset harder to develop.
+  - Growth mindset correlates with enhanced academic performance and resilience (cites Yeager et al. 2019, national experiment).
+  - When fixed mindset fuses with identity, setbacks threaten self-worth (not just performance) → avoidance, fear, resistance to feedback, self-doubt, stunted growth.
+  - Reframe: replace "I'm just not good at this" with "...yet" + "What can I learn from this instead?"
+  - Fixed mindsets often take years to shift even with diligent effort — self-reinforcing (fixed mindset resists the growth needed to change it).
+  - Mindset improvement correlates most strongly (vs. any other dimension) with improved academic confidence/performance — i.e., mindset gains generalize to overall improvement.
+- **procedures**:
+  - **CPJ task**: 1. Try a new technique (any technique). 2. On mistake/discomfort, apply CPJ framework to convert the experience into desirable learning.
+  - 4-phase mindset training sequence mirrors deep-processing's phase structure (awareness → controlled small failure → reflection/analysis → repeated exposure/enjoyment).
+- **criteria**:
+  - 4-level diagnostic scale (Level 1-4) for mindset.
+  - ~60% of learners score Level 1 (most common starting point) — most profound life changes occur from this starting point per program data.
+  - Program's own analysis (n=5,000+ learners): mindset improvement demonstrated within **60 days**; mindset shows the **most significant short-term (<6 months) improvement** of any dimension.
+  - CPJ task completion criterion: apply framework "at least twice" (or more, until comfortable).
+  - Phase 1-2 (awareness, process-thinking) begin "within the first few lessons/stages."
+  - Reflection/adaptation gets a more advanced tool "at the beginning of the Growth phase."
+- **failure-modes**:
+  - Level 1: avoiding non-guaranteed-success tasks, outcome-fixation, avoiding experimentation, seeking external validation, defensiveness/disengagement on mistakes, unfavorable social comparison, excessive future-self rumination.
+  - Diagnostic signal: mistakes feel personal/identity-threatening; frustration/stuckness on difficulty; discouragement blocking retry; fear of judgment; "not good enough" self-talk.
+  - Identity-fusion failure mode: setbacks perceived as threats to self-worth, not just performance → avoidance/resistance to feedback/self-doubt/anxiety → stunted development.
+- **examples**: none (diagnostic narrative + research citations substitute for worked examples)
+- **tables**: none
+- **figures**: none
+- **relations**: cites 3 peer-reviewed sources (Mueller & Dweck 1998; Rhew et al. 2018; Yeager et al. 2019) — rare instance of explicit external evidence citation in this corpus. Reflection/adaptation phase explicitly links forward to a "more nuanced tool" taught "at the beginning of the Growth phase" (program's Phase 2, per 07-upgrading-your-dimensions.md) — explicit forward reference/refinement-later flag.
+- **sophistication**: diagnostic content introductory/personalized; CPJ framework presented as canonical technique (full form, not simplified-for-later-deepening).
+- **scaffold**: 4 parallel score-branch narratives, 2 conditional KEY MESSAGE boxes (challenge recommended vs not), accordion panels for phases/habit-sets, "Key takeaways" callout, research-references accordion, recommended-practice-task block
+- **video-gap**: 2 markers (jw:DUzCacPK page video; jw:At5kie1O challenge video), both DRM/not captured. CPJ framework is explicitly summarized from video ("Summary of the CPJ Framework from the video") but the written summary appears complete (3 components each defined) — lower risk gap than deep-processing's 7-levels list, though full worked demonstration of applying CPJ likely lived in video.
+
+## ics-course/01-kickstart/02-catalyst/04-self-regulation.md
+- **stage**: Kickstart / Catalyst, lesson 4 of 7; diagnostic-dimension lesson
+- **role**: lesson + personalized diagnostic result (4 score branches) + training-challenge task
+- **terms**:
+  - **self-regulation** (self-regulated learning) — ability to monitor, guide, and refine one's own learning processes; car-driving-skill analogy (deep processing = engine power, self-regulation = driving skill).
+  - **metacognition** — thinking about your own thinking; core mechanism underlying self-regulation.
+  - **technique decline** — failure mode where a skilled/high-self-regulation learner grows complacent, assumes current effectiveness persists, and technique quality silently erodes over months.
+  - **desirable difficulty** — when something beneficial feels difficult; most learners misread difficulty as ineffectiveness and wrongly simplify their approach.
+  - 3 self-regulation requirements: **Fostering metacognition**, **Embracing desirable difficulty**, **Getting book smart**.
+- **claims**:
+  - Both deep processing and self-regulation must be well-developed for consistent performance across varying conditions.
+  - Good self-regulation → strategic adjustment even in unfavorable/unguided conditions; poor self-regulation → dependent on raw deep-processing/intelligence, degrades under less guidance/harder conditions.
+  - Self-regulation is "the enabler of all other skills" in the learning system.
+  - Self-regulation is not about avoiding mistakes — it's noticing what's happening and steering, including unpacking root causes for future targeted change.
+  - Most learners misperceive productive difficulty as a sign of ineffectiveness and simplify their approach rather than push through — undermining growth.
+  - Technique decline goes undetected for months without consistent reflective practice/calibration; even top learners continue seeking feedback indefinitely (learning is lifelong).
+- **procedures**:
+  - **Learning-flow mapping challenge**: 1. Trace path of a single piece of information alongside every learning method used. 2. Include what you do (specifically), when, and why. 3. Note areas of uncertainty about what/why you do something — flag as high-priority optimization targets.
+  - Best learning-flow descriptions are detailed and deeply reflective regardless of underlying system sophistication; markers of quality: honesty with self, challenging own beliefs/assumptions, questioning true effectiveness (incl. admitting "I don't know"), detailed/specific write-ups.
+- **criteria**:
+  - 4-level diagnostic scale (Level 1-4) for self-regulation.
+  - Task completion criterion: create first learning flow; repeat "after a few weeks" to track change.
+  - Metacognition-building begins "within the first few stages"; deeper/more nuanced reflection methods introduced "in the growth phase... once your foundation is established in the first stages of the High Yield Phase."
+  - Desirable-difficulty skill develops "as soon as you learn any new technique"; can take "weeks or even months" to fully embrace.
+  - Book-smart theory-building: ongoing "for the entire program."
+- **failure-modes**:
+  - Level 1: completing tasks without evaluating method effectiveness; using familiar techniques without questioning; can't identify knowledge gaps or diagnose why methods fail; one-size-fits-all approach across contexts.
+  - Diagnostic signal (Level 1): uncertainty about strategy choice, frustration at ineffective effort, overwhelm with complex material, no framework for experimentation.
+  - **Technique decline** (Level 3-4 failure mode): complacency after early success → silent skill erosion over months → possible reversion in skills/performance. Remedy: maintain consistent reflective practice, calibrate regularly.
+- **examples**:
+  - 4 example learning-flow diagrams (external Google Drive links, content not captured in this markdown — only descriptions given): (1) average university student — simple system, brief/surface-level rationalization, little critical reflection experience; (2) more metacognitive learner, moderately sophisticated strategies, higher specificity/clearer rationalization; (3) very metacognitive learner, rudimentary system but deep reflective description; (4) very metacognitive *professional* learner, rudimentary system. Demonstrates: sophistication of *reflection* matters more than sophistication of the underlying *system*.
+- **tables**: none
+- **figures**:
+  - `CleanShot 2025-02-28 at 15.08.27@2x.png` — diagram of the self-regulated learning cycle (goal-setting → applying strategies → monitoring learning process → modifying strategies), sourced/credited to external ResearchGate figure.
+- **relations**: explicitly ties to 02-deep-processing.md via car analogy (engine vs driving) and a KEY MESSAGE noting that high-deep-processing learners may not feel self-regulation issues at current challenge level but need both dimensions for competitive/demanding environments. Requirement 1 forward-references deeper reflection methods taught later in the Growth phase.
+- **sophistication**: diagnostic content introductory/personalized; 3-requirements model presented as canonical.
+- **scaffold**: 4 parallel score-branch narratives, 2 conditional KEY MESSAGE boxes (challenge recommended vs not), 2 additional KEY MESSAGE boxes (self-regulation+deep-processing interaction; technique decline warning), accordion panels for 3 requirements, recommended-practice-task block
+- **video-gap**: 2 markers (jw:NvT03Joe page video; jw:At2HPFhY challenge video), both DRM/not captured. Learning-flow-mapping task instructions are given as text ("Summary of instructions... from the video") and appear complete (3 steps); the 4 example learning-flow diagrams are external links not embedded in the capture — moderate gap, worked-example detail lives outside this markdown entirely (not just in video).
+
+## ics-course/01-kickstart/02-catalyst/05-retrieval.md
+- **stage**: Kickstart / Catalyst, lesson 5 of 7; diagnostic-dimension lesson (shortest of the 5 — no training challenge)
+- **role**: lesson + personalized diagnostic result (4 score branches); explicitly has no challenge task
+- **terms**:
+  - **retrieval (retrieval practice)** — process of recalling/using knowledge from memory; occurs during recall, explanation, problem-solving, discussion; combats knowledge decay.
+  - Knowledge-type/retrieval matching: **declarative** (facts), **procedural** (skills), **conditional** (when/why to apply) — reused from 01-transforming-how-you-learn.md's Second Law.
+  - **interleaving** — practicing retrieval by hitting information from different angles/difficulty levels.
+  - **spacing** — timing retrieval practice to give long-term memory optimal integration time.
+- **claims**:
+  - Retrieval practice improves knowledge accuracy, reduces errors, improves performance under pressure/across diverse contexts.
+  - Car analogy: if learning = driving, retrieval = performing across different terrain/conditions.
+  - In professional (non-exam) contexts, retrieval can be opportunistic (arises naturally in daily work); deliberate retrieval should fill gaps natural work doesn't cover.
+  - Retrieval-deep processing relationship is bidirectional: (1) limited deep processing caps retrieval quality; (2) attempting harder retrieval (e.g., complex self-testing) itself trains/upgrades deep processing by forcing the brain to engage more deeply than habitual.
+- **procedures**: none as standalone numbered procedure (matching/spacing/interleaving/gap-targeting are named as future-taught skills, not executed here)
+- **criteria**:
+  - 4-level diagnostic scale (Level 1-4) for retrieval.
+  - Retrieval strategy principles taught "in the early stages... from Fundamentals 1"; additional supplemental methods taught "in later stages."
+  - Gap-targeting technique taught "in early stages" and revisited "in late stages when you have sufficiently covered the more high-yield gaps."
+- **failure-modes**:
+  - Level 1: rereading instead of self-testing, avoiding self-testing due to discomfort, random/unplanned revision, focusing on familiarity over robust memory pathways.
+  - Diagnostic signals (Level 1): difficulty with curveball questions, poor retention under detail load, high "silly mistake" rate, poor performance under stress, difficulty transferring knowledge to untaught contexts, slow recall.
+  - Most learners subconsciously avoid their own weak points in retrieval because confronting them is uncomfortable (named failure mode under "Targeting your gaps").
+- **examples**: none
+- **tables**: none
+- **figures**: none
+- **relations**: explicitly reuses declarative/procedural/conditional knowledge-type taxonomy from 01-transforming-how-you-learn.md (Second Law). File states no challenge exists here specifically because retrieval is taught as one of the very first major lessons of the program proper and is highly context-dependent — explicit statement that a generic challenge "would not do it justice," i.e., deferred to program-proper (personalized) content.
+- **sophistication**: introductory/diagnostic; explicitly flags this lesson as pre-technique orientation, with actual technique instruction deferred to "Fundamentals 1" stage.
+- **scaffold**: 4 parallel score-branch narratives, 1 KEY MESSAGE box (level-1-specific: retrieval is a fast/high-leverage first fix), accordion panels previewing 3 future-taught skills + 1 "side note" accordion on deep-processing/retrieval relationship — no recommended-practice-task block (unique among the 5 diagnostic lessons)
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:i9emlK1B, DRM, not captured); no named-but-unexplained technique in the written text — low risk gap; note this file has no second/challenge video (consistent with "no retrieval challenge" statement)
+
+## ics-course/01-kickstart/02-catalyst/06-self-management.md
+- **stage**: Kickstart / Catalyst, lesson 6 of 7; diagnostic-dimension lesson
+- **role**: lesson + personalized diagnostic result (4 score branches) + training-challenge task
+- **terms**:
+  - **self-management** — the habits, routines, and environments that make consistent action possible; covers time, energy, attention, procrastination, task prioritization.
+  - 5 self-management skill areas: **Time management**, **Task management**, **Focus and attention management**, **Planning and goal-setting**, **Habit creation**.
+- **claims**:
+  - Self-management reduces reliance on willpower; frees attention for what matters; enables sustained discipline without exhausting energy daily.
+  - Misconception 1 rebutted: self-management doesn't make life "robotic" — only if approached incorrectly/excessively; modern life is inherently artificial (distraction-dense), so deliberate frameworks are necessary to reach a "natural/intuitive" level of freedom.
+  - Misconception 2 rebutted: self-management ≠ toxic productivity; it should always serve the learner's own goals, not productivity for its own sake.
+  - Ability to achieve goals depends less on potential, more on ability to take action/execute.
+  - Self-management is a prerequisite for benefiting from the rest of the program (must practice/reflect/optimize/return to learn more) — hence self-management is taught before learning-skills proper in the next stage.
+  - Most people "accept" barriers before sufficiently exploring whether they can be "addressed" — many "accepted" barriers are actually just uncomfortable to address, not truly immovable.
+- **procedures**:
+  - **"Reality check" 5-step procedure** (both a video-summary and a recommended-task, given twice verbatim in the file): 1. Make a schedule. 2. Track actual time spent alongside the schedule. 3. Compare schedule vs. actual tracked time. 4. Identify barriers (be specific). 5. Overcome barriers via either *accepting* (nothing reasonable to change) or *addressing* (making changes to eliminate/reduce impact).
+  - Accepting vs. addressing distinction: framed as a discomfort-tolerance decision, not an objective difficulty judgment; not every barrier must be addressed — can instead mitigate impact.
+- **criteria**:
+  - 4-level diagnostic scale (Level 1-4) for self-management.
+  - Over 90% of scheduling/procrastination/prioritization problems addressed within "the first few stages" of the program.
+  - Task completion criterion: complete "reality check" for at least 3 days (or longer, self-paced).
+- **failure-modes**:
+  - Level 1: missing deadlines/rushing, avoiding difficult tasks in favor of easy ones, inconsistent schedule adherence, goal-less time spend, excessive procrastination/distractibility.
+  - Diagnostic signals (Level 1): overwhelm, frustration at inconsistency, anxiety/guilt over falling behind, low confidence, frustration with procrastination habits, uncertainty about habit change methods.
+  - Level 3-4 failure mode: "excessively rigid band-aid solutions" that no longer serve current needs — self-management systems must evolve as life situations change; some historically-effective strategies may become unnecessary or insufficient over time.
+- **examples**: none
+- **tables**: none
+- **figures**: none
+- **relations**: 2 KEY MESSAGE boxes titled identically ("Self-management and every other dimension") appear back-to-back — one for low scorers (extra attention recommended) and one for high scorers (still recommended to review, low-hanging gaps) — both variants captured verbatim in sequence rather than a single resolved version; likely an artifact of capturing all conditional-branch copy from the source CMS rather than a real duplication bug. Both state that upcoming program stage teaches self-management *before* learning-skills proper.
+- **sophistication**: diagnostic content introductory/personalized; 5-skill taxonomy presented as the complete self-management toolkit ("every skill you will master in this program").
+- **scaffold**: 4 parallel score-branch narratives, 2 conditional KEY MESSAGE boxes (challenge recommended vs not) + 2 additional near-duplicate KEY MESSAGE boxes (dimension-interaction, branch by score), accordion panels for 2 training-approach areas + 5 skill areas, recommended-practice-task block
+- **video-gap**: 2 markers (jw:UQX9d08w page video; jw:7k1tYNTk challenge video), both DRM/not captured. "Reality check" procedure is fully spelled out in text (5 steps, given twice) — low risk gap, content appears complete without the video.
+
+## ics-course/01-kickstart/02-catalyst/07-upgrading-your-dimensions.md
+- **stage**: Kickstart / Catalyst, lesson 7 of 7 (closes Catalyst stage / closes entire Kickstart phase-1 diagnostic sequence)
+- **role**: lesson — explains overall 2-phase program structure + closing motivational reframe on uncertainty
+- **terms**:
+  - **High-Yield Phase** (Phase 1) — quick high-impact wins, builds foundational learning system; low time-to-value, moderate overall impact.
+  - **Growth Phase** (Phase 2) — reshapes cognitive habits/processing ability for life; high time-to-value (weeks-months), high overall impact; requires strong foundation first.
+  - **Theory-Practice cycle** — practice/challenge triggers deeper understanding, which triggers more practice; framed as "the true engine of improvement."
+- **claims**:
+  - Rushing/underestimating the High-Yield Phase → poor foundation → learners must return and re-learn later, wasting time/opportunity.
+  - For most learners, the majority of their learning/self-management barriers are resolved within the High-Yield Phase alone.
+  - Growth Phase requires the High-Yield foundation first, since its techniques take weeks-to-months and can't be layered onto unresolved urgent issues.
+  - Reframe: outcomes carry no inherent meaning beyond the story attached to them; replace "(event) therefore I am (X)" with "(event), now I will (reflect/adapt/become more insightful)" — mirrors CPJ framework's Conclusion→Journey shift from 03-mindset.md.
+  - Self-worth is never contingent on outcome or self-narrative; growth comes from focusing on controllable systems/processes (echoes "locus of control" from 02-golden-rule-of-learning.md).
+  - Commonly believed skill-acquisition ratio (75% theory-understanding / 25% practice) is inverted from reality (~15% basic theory clarity + 20% practice-to-surface-errors + 10% deepening/correcting misconceptions + 55% further practice/challenge), with a theory-practice feedback cycle driving the real engine of improvement.
+- **procedures**: none (comparison table + reframe technique, no numbered task)
+- **criteria**: none quantitative beyond the pie-chart percentages (15/20/10/55 vs perceived 25/75 theory/practice split)
+- **failure-modes**:
+  - Rushing High-Yield Phase content → incomplete foundation → forced backtrack later (named consequence, not diagnostic signal).
+- **examples**: none
+- **tables**:
+  - Phase comparison table: rows = The goal / Relevance to current situation / Time to value / Overall impact; columns = Phase 1 (High-Yield) vs Phase 2 (Growth) — High-Yield: goal=build comprehensive system fast, relevance=high, time-to-value=low, impact=moderate; Growth: goal=replace cognitive habits/improve natural processing for life, relevance=moderate, time-to-value=high (weeks-months), impact=high.
+- **figures**:
+  - `What we think it takes to learn new skills_1.jpeg` — pie chart, perceived skill-acquisition split: 75% theory/understanding, 25% practice.
+  - `What it really takes to learn new skills_2.jpeg` — pie chart, actual split: 15% basic theory clarity, 20% practice/experience to find biggest misconceptions/errors, 10% deepening understanding/correcting misconceptions, 55% more practice/challenging experiences; annotated with a theory-practice improvement cycle loop between practice/challenge and deeper understanding.
+- **relations**: explicitly closes the loop opened in 01-introduction/04-opening-the-black-box-of-learning.md (which first named the encoding/retrieval split and program sequencing rationale) by naming the concrete 2-phase structure. Reframe technique parallels 03-mindset.md's CPJ framework (Conclusion→Journey) without naming it explicitly — implicit cross-lesson reuse. "Locus of control" concept from 02-golden-rule-of-learning.md is implicitly reprised ("focus on your locus of control" key takeaway).
+- **sophistication**: canonical/structural — this is the definitive statement of program phase structure (not simplified-for-later-revision); closing content for the whole Kickstart phase.
+- **scaffold**: KEY MESSAGE box ("Pro tip: focus your attention here"), "Key takeaways" callout, motivational reframe prose, 2 figures for visual/emotional impact — moderate coaching voice, less score-personalized than lessons 2-6 (no diagnostic-level branching in this file)
+- **video-gap**: 1 [PAGE VIDEO] marker (jw:xXnKBdix, DRM, not captured); no named-but-unexplained technique — low risk gap

@@ -1,0 +1,415 @@
+# Inventory: 11-support-misc
+
+**assignment**: 11-support-misc
+**file count**: 16
+**dirs**: ics-learning-support/{formal-education, mindset, miscellaneous, note-taking, using-the-icanstudy-program}
+
+**Highlights**
+- Prestudy (formal-education/99) — builds big-picture scaffold before class so brain has "place" for new info; reduces cognitive overload; canonical mechanism explanation for prestudy's forgetting-reduction effect.
+- High-yield vs Growth phase sequencing (97) — near-exam strategy: master current techniques first, don't destabilize system with new Growth-phase techniques close to assessment.
+- Root-cause diagnostic table for silly mistakes (silly-mistakes) — 5 causes (test anxiety, insufficient lower-order/higher-order/procedural knowledge, unidentified gaps) each with symptoms + solution; strongest diagnostic artifact in this chunk.
+- Double generation practice test strategy (silly-mistakes) — 6-step procedure to expose knowledge gaps via self-generated model answers before checking official answers; "proxy learning" side-effect named.
+- Information over experimentation (mindset/information-over-experimentation) — fixed-mindset symptom of seeking certainty via "what if" questions instead of practicing; canonical treatment.
+- Inverse-U value of information — too little or too much pre-practice information both reduce success chance; optimal zone = enough to attempt + know what correct feels like, not enough for certainty.
+- Theory-practice cycle — practice needed to correct theory misconceptions and give theory relevance, not just for fluency (corrects naive 75%-theory/25%-practice model).
+- Effective vs ineffective question framing — reroute "what if X mistake" into experience-grounded structured question (what I did / found / think issue is / propose).
+- Arrows vs. lines in mapping (note-taking/88) — arrows force explicit directional/causal encoding = higher-order processing; lines = unprioritized connection awareness only, appropriate for lower-level undifferentiated facts.
+- Delaying note-taking / non-linear notes (note-taking/529) — continuous linear/verbatim note-taking is self-sabotaging; discomfort of delayed processing is functional, drives active encoding.
+- Conscious competence ladder, 7-stage (using-the-icanstudy-program/lesson-progress-speed) — unconscious incompetence → ... → unconscious competence, each with diagnostic signs; gates progression decisions.
+- Max-3-techniques-at-once rule + 80%-consistency progression gate (lesson-progress-speed) — explicit quantitative thresholds for advancing through program stages.
+- Reference chunking / second-brain / synthesize-as-you-go (miscellaneous/storing-references-encoding) — 3 alternative methods for reconciling non-linear encoding with citation needs, each with a "best for" condition.
+- Dimensions vs. skills distinction (using-the-icanstudy-program/improving-skills) — dimensions = underlying attributes/habits gating skill execution ability; skills = trained technique execution; dimensions improve via lesson practice, not directly targeted.
+- Rate of experimentation × rate of reflection = rate of progress (lesson-progress-speed) — reframes "slow progress" complaints as an experimentation/reflection frequency problem, not a technique difficulty problem.
+
+---
+
+## ics-learning-support/formal-education/92.md
+- **stage**: Learning Support / Formal education, Note-taking
+- **role**: Q&A article (thin) — chemistry note-processing method, video-carried
+- **terms**:
+  - Chunking by commonality — grouping/simplifying chemistry equation notation by shared structural features (not otherwise defined in text)
+- **claims**: Simplifying/chunking chemistry equation notes by commonality + spatial arrangement aids memory of common reaction features (asserted, not elaborated in text).
+- **procedures**: None in text (method demonstrated only in video).
+- **criteria**: None.
+- **failure-modes**: None stated.
+- **examples**: Chemistry equation note-writing — demonstrates chunking-by-commonality applied to reactions; no textual detail, video-only.
+- **tables**: None.
+- **figures**: None (video only, not captured — DRM).
+- **relations**: Specializes general encoding/chunking principle to chemistry-equation notation; refines note-taking techniques for a specific subject domain.
+- **sophistication**: NOT canonical treatment of chunking — this is a subject-specific micro-application; core chunking mechanism must live elsewhere in corpus.
+- **scaffold**: Near-total scaffolding — page is essentially a video pointer; only 2 sentences of orienting text.
+- **video-gap**: 1x `[VIDEO: untitled (jw:iLuCB1ps) — not captured (DRM); text on this page is the written lesson]`. Text describes WHAT the method does but not HOW (no steps) — method entirely unexplained in text.
+- **not-captured**: Video content (DRM) — entire procedural content of this page is lost; only a 2-sentence gloss survives.
+
+## ics-learning-support/formal-education/97.md
+- **stage**: Learning Support / Formal education, Using the iCanStudy program
+- **role**: Guide — exam-prep strategy under time pressure
+- **terms**:
+  - High-yield phase — early program phase; techniques masterable in <2 weeks, large immediate return.
+  - Growth phase — later program phase; techniques take weeks to gain competence, destabilizing if learned too close to assessment.
+  - Skills audit — self-check against milestone checklists at phase-end points.
+  - Kolb's — (referenced, not defined here) reflection cycle taught in Briefing; used to target weaknesses.
+- **claims**:
+  - "Best possible result" ≠ "best result" — expectation-setting; large score jumps (e.g., 60→95%) in weeks are unrealistic.
+  - Learning Growth-phase techniques before mastering High-yield fundamentals typically produces WORSE performance than just consolidating fundamentals (destabilization risk).
+  - Exception: if foundational techniques are entirely lacking, learning them yields high benefit even short-term since mastery time is low.
+- **procedures**: Steps to consolidate current system pre-exam: (1) complete skills audit against milestone checklists (end of High-yield, Technique Training, Ascent 3); (2) use Kolb's to target/optimize weaknesses.
+- **criteria**:
+  - New members near exam → focus High-yield only, skip Growth phase.
+  - Existing members near exam → stop progressing, consolidate only.
+  - Threshold: High-yield techniques = masterable in <2 weeks.
+- **failure-modes**: Learning many new/unmastered techniques close to an exam → worse performance than pure retrieval practice ("flashcards") — named explicitly as worst-case action.
+- **examples**: None narrative; table below is illustrative/statistical, not a worked example.
+- **tables**: Expected score improvement table — maps "normal result" band (Below 50%, 50–70%, 70–80%, 80–90%, Over 90%) to "after mastering fundamentals" band (50–70%, ~80%, ~85%, ~90%, ~93%). Explicitly a general reference with significant individual variation noted.
+- **figures**: None.
+- **relations**: Directly answers program-structure questions about High-yield vs Growth phase sequencing; references Kolb's (core program construct) and milestone checklists.
+- **sophistication**: Canonical treatment of exam-imminent strategy / phase-prioritization tradeoff for this corpus chunk.
+- **scaffold**: Mixed — genuine mechanism content (destabilization principle) plus program-navigation content (which checklist to use, phase names).
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/formal-education/99.md
+- **stage**: Learning Support / Formal education
+- **role**: Q&A article — in-class/lecture overwhelm, cognitive-load management
+- **terms**:
+  - Prestudy — pre-exposure to material that builds a "big-picture scaffold" before class, giving new info a place to be organized/connected; reduces cognitive overload.
+  - Cognitive overload — state when brain lacks organizational structure to place incoming info (named, causally linked to lack of prestudy/relevance).
+  - Marginal gains (auditory processing) — incremental training of auditory info-processing capacity via structured practice.
+- **claims**:
+  - Brain struggles to know "what" to retain without knowing "why" it's relevant; lack of relevance is the most common cause of in-class processing failure.
+  - Prestudy separates "understanding relevance/structure" from "connecting new info" so class time is spent connecting/integrating rather than building structure from scratch.
+  - Effective prestudy reduces future forgetting; sacrificing prestudy for review is a worse tradeoff — KEY MESSAGE: always choose prestudy over reviewing already-learned material if time-constrained.
+  - Effective prestudy → learner can "think faster than a person can teach," enabling deeper questions and more value extraction.
+  - Auditory-processing overwhelm may reflect underdeveloped cognitive skill, not a technique failure — improves only via diligent guided training over time.
+- **procedures**: Training auditory processing (practice instructions): (1) listen, connect new info to prior knowledge, simplify/chunk/find similarities-differences while speaker talks; (2) when mental capacity maxed, quickly map current thoughts onto notes; (3) repeat step 1, now referencing mapped notes occasionally to find more connections; (4) continue cycle, aiming to process ~1% more information mentally per attempt before needing to offload.
+- **criteria**: Benchmark — at university level, holding 10–15 min of dense-lecture content mentally before needing to offload = high processing ability.
+- **failure-modes**: Overwhelm without prestudy is diagnosed as a relevance/structure problem, not raw speed; unmanageable unless processing ability is higher-intermediate/advanced.
+- **examples**: None narrative (university-lecture benchmark cited but not a worked example).
+- **tables**: None.
+- **figures**: "Overwhelm vs focused with prestudy.jpeg" — 2-panel brain diagram: overwhelm (many undirected connections) vs. focused-with-prestudy (potential connections pre-identified).
+- **relations**: Directly elaborates prestudy — a construct presumably introduced at core-program level; this is the applied/troubleshooting extension for lecture contexts. Names cognitive overload mechanism likely referenced elsewhere in corpus.
+- **sophistication**: Likely canonical mechanism explanation for WHY prestudy reduces overload (relevance/structure argument) — strong candidate for core synthesis material, not just Q&A.
+- **scaffold**: None pure — all content is mechanism/procedure.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/formal-education/silly-mistakes.md
+- **stage**: Learning Support / Formal education, Retrieval and interleaving
+- **role**: Q&A article + diagnostic table + procedure — root-causing exam "silly mistakes"
+- **terms**:
+  - Illusion of explanatory depth — (external ref, linked) false sense of understanding revealed only when forced to articulate; basis for "must write, not just think" rule.
+  - Proxy learning — side-effect learning that occurs while crafting one's own model answer sheet, covering material adjacent to but not directly tested by the question.
+  - Double generation practice test strategy — named procedure (below).
+- **claims**:
+  - Silly mistakes are rarely pure exam-technique errors; usually reflect deficiency of understanding/application, compounded by technique.
+  - Example causal claim: unit-conversion errors in maths/physics disappear once deeper understanding of what units represent is developed — erroneous conversions then "don't make sense," raising an internal alarm.
+  - Best sequence: fix preparation/understanding gaps FIRST, optimize exam technique SECOND.
+  - Trying to fix silly mistakes through sheer intention/effort ("be more careful") does not work.
+  - KEY MESSAGE: lack of confidence on a question indicates a knowledge gap even if the answer was correct (may be luck) — variation of same question may later be missed.
+  - Mentally answering (not writing) practice questions fails to expose illusions of explanatory depth — writing is required.
+  - Creating own answer sheet ≈ learning benefit of 5–6 practice tests (anecdotal), via forced lower- and higher-order thinking to define a "perfect" answer.
+- **procedures**:
+  - Steps to solving silly mistakes: (1) identify biggest root cause; (2) experiment with targeted solution; (3) reflect, identify other potential causes; (4) repeat cycle of experimentation and reflection.
+  - Double generation practice test (practice instructions): (1) do a practice test; (2) answer each question, writing it out as in a real exam; (3) mark areas of low confidence; (4) create own answer sheet with "perfect" model answers using notes/resources; (5) compare own answers against own answer sheet; (6) compare own answer sheet against official answer sheet (if available).
+  - Post-procedure review list: (1) questions not confident about; (2) questions marked wrong per own answer sheet; (3) own model answers found lacking vs. official sheet — each = candidate knowledge gap, review/re-encode with an encoding technique of choice.
+- **criteria**: None purely quantitative beyond the anecdotal "5–6 practice tests" equivalence claim (explicitly anecdotal, not a hard threshold).
+- **failure-modes** (root-cause table — cause / symptom / solution):
+  - Test anxiety/nervousness — random-pattern mistakes, no association with difficulty/type/subject, worsens with higher-stakes exams → graduated exposure (timed practice under test conditions, reduced time, group pressure); deep breathing (Wim Hof breathing cycle, linked); pre-test calming rituals; avoid last-minute cramming.
+  - Insufficient lower-order knowledge — mistakes = discrete fact-recall errors → add lower-order retrieval method (e.g., flashcards).
+  - Insufficient higher-order knowledge — mistakes on multi-concept questions, big-picture ideas, strategy/approach questions → increase higher-order learning in encoding/retrieval; see interleaving page.
+  - Insufficient procedural practice — mistakes in applying knowledge to procedural tasks (software dev, engineering, maths) → more generative procedural/execution interleaving; see interleaving page.
+  - Unidentified general knowledge gaps — mixed-order mistakes recurring across practice tests → double generation practice test strategy.
+- **examples**: Unit-conversion error in maths/physics — demonstrates surface "silly mistake" rooted in shallow unit understanding, resolved by deepening conceptual grasp (not drilling technique).
+- **tables**: Root-cause table — cause → symptoms → solution, 5 rows (test anxiety, lower-order gap, higher-order gap, procedural-practice gap, unidentified gaps).
+- **figures**: None.
+- **relations**: Cross-references "interleaving" page (higher-order and procedural retrieval ideas) — this article is the diagnostic/troubleshooting layer sitting above core interleaving/retrieval technique content.
+- **sophistication**: Canonical treatment of silly-mistake diagnosis for this corpus chunk — most complete cause→symptom→remedy mapping seen here.
+- **scaffold**: None pure — dense mechanism/procedure/diagnostic content throughout, plus an FAQ block (still substantive, not pure admin).
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/mindset/information-over-experimentation.md
+- **stage**: Learning Support / Mindset
+- **role**: Q&A article — mindset failure mode + question-framing guide
+- **terms**:
+  - Information over experimentation — fixed-mindset symptom: asking many certainty-seeking "what if" questions before attempting a new skill, to reduce risk of failure.
+  - Theory-practice cycle — practice is necessary (not just for fluency) to deepen theory understanding and correct misconceptions; practice gives relevance, clarifying which theory parts matter.
+  - Inverse-U value of information — relationship between amount of pre-practice information and chance of success: too little → many unknowns, low success; appropriate amount → clarity, high success; too much → overload, low success again.
+  - Ineffective question — "what if I make this mistake?" — low-probability hypothetical, wastes clarity-seeking effort on irrelevant scenarios.
+  - Effective question — experience-grounded: "I tried X, found mistake Y, how do I overcome it?"
+- **claims**:
+  - It is impossible to reduce mistake-risk to zero; endless certainty-seeking → no practice, frustration, blame-shifting.
+  - Naive model: skill learning = mostly theory (~75%) + practice for refinement (~25%); actual model: practice is necessary to deepen/correct theory, not just refine it (illustrated via 2 pie charts).
+  - Optimal moment to first attempt/experiment = enough info to attempt the method + know what correct execution looks/feels like, but NOT enough info to guarantee doing it correctly.
+  - Amount of information needed for "clarity" is much lower than needed for "certainty"; certainty-level information often exceeds both brain capacity and what's knowable before experience (illustrated via bar chart).
+  - Not every mistake needs to be personally made — "unnecessary risk" questions (asking about common mistakes / inappropriate-use situations) are legitimate and distinct from "what if" hypotheticals.
+- **procedures**: Effective post-attempt question structure: (1) what I did; (2) what I found; (3) what I think the issue is; (4) what I propose as next experiment.
+- **criteria**: 3-part readiness check for first attempt: enough info to attempt + enough info to know correct look/feel + NOT enough info to guarantee correctness (i.e., attempt before over-informed).
+- **failure-modes**: Excess "what if" questioning before practice = the core failure mode (information over experimentation itself); named as fixed-mindset symptom. Remedy = reframe into effective, experience-grounded questions per table below.
+- **examples**: "What if I make this mistake?" (ineffective) vs. "I tried this and made X mistake, how do I overcome it?" (effective) — demonstrates the reframing mechanism concretely.
+- **tables**: Valuable-questions-to-ask table — 3 rows: (1) calibration questions (how do I know if correct / what does correct feel like) — ask before/during attempts; (2) unnecessary-risk-avoidance questions (common mistakes, inappropriate-use situations) — ask before/during attempts, must be open-ended not hypothetical-specific; (3) experiment-framing questions (what I did/found/think/propose) — ask after attempts.
+- **figures**:
+  - "What we think it takes to learn new skills.jpeg" — pie chart, naive model: 75% theory, 25% practice-for-refinement.
+  - "What it really takes to learn new skills.jpeg" — pie chart, actual model: practice gives relevance to theory via theory-practice cycle.
+  - "Zone of useful information.jpeg" — inverse-U graph: info quantity vs. chance of success.
+  - "What we need for certainty vs clarity.jpeg" — bar chart: clarity threshold << certainty threshold; certainty exceeds brain's information-handling capacity.
+- **relations**: Elaborates fixed-mindset construct (mindset dimension) into a specific diagnosable symptom with a remedy; connects to theory-practice cycle, presumably a core-program construct.
+- **sophistication**: Canonical treatment of "information over experimentation" and the inverse-U information/success relationship for this corpus.
+- **scaffold**: None pure — fully mechanism/procedure content.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/miscellaneous/kolbs-exemplars.md
+- **stage**: Learning Support / Miscellaneous (no category tag)
+- **role**: Platform-administration / resource pointer — external PDF link to Kolb's exemplars
+- **terms**: None introduced (references "Kolb's experiential learning cycle" and "Right vs. wrong way to practice" lesson, both defined elsewhere).
+- **claims**: None.
+- **procedures**: None.
+- **criteria**: Progression gate note — article assumes reader has completed the "Right vs. wrong way to practice" lesson in Briefing.
+- **failure-modes**: None.
+- **examples**: 2 worked Kolb's reflection examples exist but are external (Google Drive PDF link) — NOT CAPTURED in this corpus; content/subject unknown from this file alone.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Supplementary exemplar resource for Kolb's cycle (core-program construct, taught in Briefing) — this page is pure pointer, not explanatory content itself.
+- **sophistication**: Not a treatment of Kolb's at all — zero mechanism content; the actual exemplars are external and inaccessible.
+- **scaffold**: PURE scaffolding — entire file is a navigation/resource pointer (one link) plus a progression-gate note. Drop candidate: no learning mechanism captured; only value is the external link itself, which is unusable as corpus content.
+- **video-gap**: none.
+- **not-captured**: The 2 Kolb's reflection exemplars themselves (external PDF, Google Drive link, not fetched/captured).
+
+## ics-learning-support/miscellaneous/recommended-apps.md
+- **stage**: Learning Support / Miscellaneous
+- **role**: Platform-administration — curated third-party app/tool recommendation list (affiliate-disclosed)
+- **terms**: None pedagogical; all "terms" are product/category names (book-summary apps, task managers, calendar apps, second-brain apps, focus/distraction-blocking apps, habit trackers, freehand note apps) — no learning-mechanism definitions.
+- **claims**: None about learning mechanisms. Only comparative product-quality claims (e.g., Blinkist summaries sometimes inaccurate/misrepresent principles vs. Shortform; Obsidian steeper learning curve than Notion; OneNote "vastly inferior" for note-taking vs. alternatives listed).
+- **procedures**: None.
+- **criteria**: None quantitative (affiliate discount: 30% annual on Shortform; 30-day free trial on Concepts — commercial terms, not learning criteria).
+- **failure-modes**: None pedagogical.
+- **examples**: None pedagogical (product list only): Shortform/Blinkist (summaries), Asana/ClickUp/Amazing Marvin (tasks), Google Calendar/Business Calendar 2/OneCalendar (scheduling), Obsidian/Notion (second brain), BlockSite/Focused Work (distraction blocking), Tide/Focused Work (work-rest timing), Relaxio/White Noise Lite (white noise), Calm (mindfulness/sleep), Remente/Fabulous (habit tracking), Concepts/Squid/FreeForm/OneNote (freehand note-taking).
+- **tables**: None (list format by category, not tabular).
+- **figures**: None.
+- **relations**: Tangential — recommends tools compatible with note-taking/second-brain/focus techniques taught elsewhere, but does not itself teach or explain any mechanism.
+- **sophistication**: Not applicable — pure product-recommendation content, no learning-mechanism treatment to compare against.
+- **scaffold**: PURE scaffolding/administration — entire file is a commercial/product-recommendation list with affiliate disclosure. Drop candidate: no learning mechanism; value (if any) is as a "tools" appendix, not core synthesis material.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/miscellaneous/storing-references-encoding.md
+- **stage**: Learning Support / Miscellaneous
+- **role**: Guide — reconciling non-linear encoding notes with academic citation/reference needs
+- **terms**:
+  - Synthesize-as-you-go — method: interleave non-linear encoding with periodic linear, referenced synthesis writing.
+  - Second brain (reference-management sense) — using an app (Obsidian/Roam) to store one page per reference with summary + tags, viewable via graph/map mode.
+  - Reference chunking — categorizing references by importance/utility into named buckets, stored in citation software.
+- **claims**:
+  - Non-linear note-taking/encoding is cognitively optimal but creates friction for citation-based writing tasks — 3 methods offered as mitigations.
+  - Both second-brain and reference-chunking methods extend study time / add administrative burden but are "a necessary evil" when references are high-volume and reused long-term.
+  - Reference chunking effectiveness depends on field expertise — accurate categorization requires deep/logical understanding of the topic's principles.
+  - Ability to cite appropriately in writing depends on deep relational topic understanding + frequent reference reuse in writing, which itself acts as natural interleaved retrieval.
+- **procedures**:
+  - Synthesize-as-you-go: (1) learn using program encoding techniques; (2) after every 2–3 sources, synthesize learning linearly into referenced writing; (3) continue learning, keep adding/modifying/rearranging the linear piece. Produces 2 parallel note sets: non-linear (understanding/evaluation) + linear cited (consolidation/reference bank).
+  - Second brain: (1) learn using program encoding techniques; (2) for each reference, create an app page with summary + meaningful tags; (3) view relationships via graph/map viewer mode (Obsidian/Roam).
+  - Reference chunking: (1) learn using program encoding techniques; (2) chunk/categorize references by importance/utility, store in citation software (Zotero, EndNote, etc.); (3) categorize each reference as you go. Sub-steps: use tags for filtering (e.g. "Core," "Methods," "Counterpoint"); add notes explaining categorization; create collections per project/module.
+  - Reference-chunking categorization scheme (example, 5 categories): (1) core foundational papers — must-know, cited in almost every deep discussion; (2) high-leverage practical studies — direct frequent application, e.g. applied studies with concrete interventions/designs/cases; (3) contextual works — relevant but not central, broaden understanding, cited infrequently, may be sub-categorized by theme/utility; (4) controversial/counterpoint references — challenge assumptions/offer alternative interpretations, not always a viable category depending on field; (5) methods & measurement references — methodological templates, statistical approaches, measurement tools.
+- **criteria**:
+  - Synthesize-as-you-go best for: producing only one isolated piece of writing.
+  - Second brain best for: repeated long-term reuse of same references (combine with synthesize-as-you-go if writing also needed).
+  - Trial recommendation: pilot the second-brain workflow with a few references before committing — a suboptimal template/structure is very hard to change later at scale.
+- **failure-modes**: Setting up a large reference system with a non-optimal template/documentation structure before trialing → very hard to change later (implicit warning, not a labeled failure-mode table).
+- **examples**: Reference-chunking categorization scheme (5-category worked example) — demonstrates how to apply the chunking method concretely, with sub-bullets per category.
+- **tables**: None (categorization scheme presented as nested list, not table).
+- **figures**: None.
+- **relations**: Applies core-program non-linear encoding technique to a specific external-output problem (academic citation); references named tools (Obsidian, Roam, Zotero, EndNote) as implementation options, not taught elsewhere in this chunk.
+- **sophistication**: Canonical treatment (only treatment in this chunk) of reference-management-during-encoding problem; 3 named/contrasted methods with explicit selection criteria.
+- **scaffold**: None pure — all 3 sub-methods carry genuine procedural/mechanism content.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/miscellaneous/welcome-to-finder.md
+- **stage**: Learning Support / Miscellaneous (no category tag)
+- **role**: Platform-administration — orientation/onboarding notice for "Finder" AI search feature
+- **terms**:
+  - Finder — iCanStudy's in-platform AI-powered search engine (product feature, not a learning-mechanism construct).
+- **claims**: None about learning.
+- **procedures**: None (tour is automatic; fallback = click a link if tour doesn't load within 10 seconds).
+- **criteria**: 10-second wait threshold before manually triggering the tour link.
+- **failure-modes**: None pedagogical.
+- **examples**: None.
+- **tables**: None.
+- **figures**: None.
+- **relations**: None to core-program learning constructs — purely a platform feature announcement.
+- **sophistication**: Not applicable — no learning-mechanism content exists to assess.
+- **scaffold**: PURE scaffolding — entire file is platform/product administration (onboarding notice for a search tool, "still in beta" disclaimer). Drop candidate: explicit example of "no learning mechanism" content per assignment brief (directly analogous to "Learn to use Finder" example cited in task instructions).
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/note-taking/529.md
+- **stage**: Learning Support / Note-taking
+- **role**: Q&A article (overview) — linear vs. non-linear note-taking, timing of note-taking
+- **terms**:
+  - Linear note-taking — sequential, often verbatim-adjacent notes; associated with lower retention/test scores, especially when digitally typed.
+  - Non-linear note-taking — relationship-prioritizing note format; higher retention, more active cognitive processing; technically advanced skill requiring correct training (naive experimentation without training often fails and gets misattributed to the method itself).
+  - Continuous note-taking — writing notes while still consuming material (vs. delaying note-taking until after processing); named as self-sabotaging habit.
+- **claims**:
+  - Non-linear notes → higher retention + more active cognitive processing, via prioritizing relationships between ideas.
+  - Linear notes, especially typed and near-verbatim, → less meaningful learning, lower retention, lower test scores (cited as "research shows").
+  - Untrained non-linear attempts often fail, but learners misattribute this to the method being ineffective rather than to lack of training — non-linear note-taking is "surprisingly technical and advanced."
+  - Delaying note-taking until after processing/sense-making (vs. continuous writing) improves retention, depth of understanding, and assessment performance (cited as cognitive-load-theory / freeform-vs-typed research finding).
+  - Writing notes immediately/continuously gives false comfort/security but removes the brain's incentive to actively process information → more passive, ineffective learning → more revision time needed overall.
+  - Tolerating the discomfort of delayed sense-making ("productive confusion") enables faster, more efficient learning state.
+- **procedures**: None explicit (principles only, no numbered steps).
+- **criteria**: None quantitative.
+- **failure-modes**: Continuous/heavy linear note-taking (common in formal education, reinforced by teachers) → passive learning, poor retention, more revision needed later — framed as a self-sabotaging default habit.
+- **examples**: None narrative.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Overview/entry-point article for note-taking topic in this corpus chunk — sets up both the linear/non-linear distinction and the delay-note-taking principle that other note-taking articles (88, drawing-to-learn) build on.
+- **sophistication**: Overview-level, not the deepest treatment — likely a summary/entry-point rather than the canonical mechanism explanation (which probably lives in core-program non-linear note-taking lessons, not captured in this chunk).
+- **scaffold**: None pure — content is principle-level but substantive throughout.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/note-taking/88.md
+- **stage**: Learning Support / Note-taking
+- **role**: Q&A article — arrows vs. lines convention in non-linear maps
+- **terms**:
+  - Arrow (in mapping) — directional connector requiring explicit specification of relationship nature (one-way, two-way, curly-bracket, non-arrow line variant); forces higher-order processing.
+  - Line (in mapping) — non-directional connector indicating general connection awareness without prioritized relationship type; appropriate for lower-level, undifferentiated facts within a chunk.
+- **claims**:
+  - Using arrows instead of lines forces deeper consideration of relationship nature between concepts, activating higher-order learning/processing.
+  - Any given "line" connection is compatible with multiple possible arrow interpretations — i.e., lines hide the differentiated relationship information that arrows would reveal.
+  - Lines remain acceptable where information is connected but has no directionality/cause-effect relationship, typically at lower detail levels (component facts within a chunk).
+- **procedures**: None (principle/decision-rule article, not stepwise).
+- **criteria**: Decision rule — use arrows when directionality/causality exists or should be actively considered; use lines only for lower-level, non-directional, componential facts within a chunk.
+- **failure-modes**: Implicit — defaulting to lines-only mapping hides relationship differentiation, permits shallower (lower-order) processing without the learner noticing.
+- **examples**: A–B–C–D–E concept set shown 4 ways: lines-only, and 3 different arrow-combination variants — demonstrates that identical line-diagram is compatible with multiple distinct causal/directional interpretations, each carrying different meaning once arrows are added.
+- **tables**: None.
+- **figures**:
+  - "CleanShot 2023-09-01 at 19.05.00.png" — A,B,C,D,E connected by lines only.
+  - "CleanShot 2023-09-01 at 19.05.37.png" — A–E connected with one arrow-combination variant.
+  - "CleanShot 2023-09-01 at 19.05.45.png" — A–E connected with a second arrow-combination variant.
+  - "CleanShot 2023-09-01 at 19.05.51.png" — A–E connected with a third arrow-combination variant.
+- **relations**: Refines/specifies a notational convention within non-linear note-taking/mapping (core-program construct); directly extends the "non-linear notes = higher processing" claim from 529.md with a concrete mechanical rule.
+- **sophistication**: Canonical treatment of the arrows-vs-lines convention specifically — precise and self-contained.
+- **scaffold**: None pure — fully mechanism/decision-rule content.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/note-taking/drawing-to-learn.md
+- **stage**: Learning Support / Note-taking
+- **role**: Q&A article (thin, video-carried) — drawing/doodling for learning, addressing "not artistic" objection
+- **terms**: None substantively defined (references "visual processing," "artistic expression," "abstraction" as brain functions activated by drawing, not formally defined).
+- **claims**: Drawing skill is trainable like any other skill; artistic quality is not required — sufficient drawing ability just needs to activate visual-processing/artistic-expression/abstraction brain functions.
+- **procedures**: None in text (method presumably demonstrated in video, not captured).
+- **criteria**: None.
+- **failure-modes**: Being "put off" drawing due to perceived lack of artistic skill — named as the objection this article counters, not itself a diagnosed learning failure mode.
+- **examples**: None.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Companion/parallel technique to arrow/line mapping (88.md) within note-taking — visual/graphical encoding generally; likely elaborates a core-program "drawing to learn" technique not itself detailed here.
+- **sophistication**: NOT canonical — thin gloss only; substantive method content is in the uncaptured video.
+- **scaffold**: Near-total scaffolding — 2 sentences of text beyond the video pointer and frontmatter; motivational/reassurance framing dominates.
+- **video-gap**: 1x `[VIDEO: jw:SPcI3gfS — not captured (DRM)]`. Article names "drawing/doodling method" as a technique but never explains how to do it in text — full procedural content lost to DRM.
+- **not-captured**: Video content (DRM) — entire procedural/how-to content of this page is lost.
+
+## ics-learning-support/using-the-icanstudy-program/30-day-challenge-instructions.md
+- **stage**: Learning Support / Using the iCanStudy program
+- **role**: FAQ / platform-and-program-structure guide — how 30-day challenges relate to core program
+- **terms**:
+  - 30-day challenges — supplementary, optional program component giving concentrated exposure to experiences/insights normally gained over months/years of unguided learning; builds metacognition/awareness per dimension.
+  - Diagnostic report / archetype — (referenced, not defined here) assessment output that recommends which dimensions to prioritize.
+- **claims**:
+  - 30-day challenges compress organic, unguided experiential learning (normally months/years) into a concentrated 30-day exposure, yielding deeper dimension-specific metacognition and awareness.
+  - Plateauing or slow consolidation of core-program techniques may indicate a lack of relevant underlying experience/insight — addressable via the relevant 30-day challenge.
+- **procedures**: None stepwise (all content is FAQ-format decision guidance, not a numbered method).
+- **criteria** (decision guidance, FAQ-style):
+  - Challenges are entirely optional; program progression without them is fully viable.
+  - If <30 days before cohort start: if diagnostic-flagged dimensions feel very limiting → do the challenge first or slow core-program pace; if confident → skip and start core program directly.
+  - Multiple challenges can be run simultaneously; recommend starting with the dimension most limiting per diagnostic archetype.
+  - Challenges can be taken anytime during the core program, especially when plateauing or slow to consolidate new techniques.
+  - If overwhelmed doing both simultaneously → focus on one only; if core-program techniques feel straightforward → prioritize core program until difficulty arises; if core program feels overwhelming/hard to integrate → prioritize challenges, return to core program after; if capable of both → progress core program at half normal pace.
+- **failure-modes**: Plateau or slow technique-consolidation in core program → diagnostic signal for missing experiential foundation, remedy = relevant 30-day challenge.
+- **examples**: None.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Program-structure/navigation article relating an optional supplementary track (30-day challenges) to core-program pacing and the diagnostic-assessment/archetype system.
+- **sophistication**: Not a mechanism treatment — pure program-logistics guidance; canonical only for challenge/core-program sequencing decisions, not for any learning mechanism itself.
+- **scaffold**: Mostly scaffolding (program navigation/pacing FAQ) but retains one genuine mechanism claim (plateau ↔ missing-experience diagnostic) — not PURE scaffolding.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/using-the-icanstudy-program/getting-help.md
+- **stage**: Learning Support / Using the iCanStudy program
+- **role**: Platform-administration — support-channel routing guide (account/billing, Finder AI search, work feedback, general queries)
+- **terms**:
+  - Finder — AI-powered in-platform search engine for technique/concept questions (same product referenced in miscellaneous/welcome-to-finder.md).
+- **claims**: Self-feedback practice (attempting to resolve one's own problem before asking) is framed as a critical skill for self-regulated learning and accelerates skill-development speed by reducing reliance on external feedback (the one substantive learning-adjacent claim in this file).
+- **procedures**: None stepwise; routing instructions only (click links for account/billing, feedback, general support).
+- **criteria**: Rule of thumb — spend at least 30 focused minutes attempting self-resolution/self-feedback before requesting coaching feedback. Coaching feedback turnaround: 5–7 business days. Feedback is unlimited and free (no extra cost).
+- **failure-modes**: None pedagogical (asking for help too early framed as missing a self-regulation opportunity, not a "mistake" per se).
+- **examples**: None.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Points to external "feedback guide" article (not in this chunk) for how to structure feedback requests; references Finder (platform feature) and Kolb's/mindmaps as examples of feedback-eligible work.
+- **sophistication**: Not applicable — no learning-mechanism treatment beyond the single self-feedback claim, which is asserted not elaborated.
+- **scaffold**: PURE scaffolding — entire file is platform/support-channel navigation (account, billing, Finder, feedback routing, general queries) plus turnaround-time/policy info. Drop candidate: administration only; the lone self-regulated-learning claim is a one-line assertion with no mechanism, best merged elsewhere if kept at all.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/using-the-icanstudy-program/improving-skills.md
+- **stage**: Learning Support / Using the iCanStudy program
+- **role**: Q&A article — dimensions vs. skills distinction, how scores improve
+- **terms**:
+  - Dimensions — attribute-like measures reflecting habits/processes/tendencies (e.g., deep processing, self-regulation, mindset, retrieval); not fixed, change over time via training; gate one's ability to execute skills.
+  - Skills — ability to use/execute techniques masterfully to achieve a desired effect; execution quality depends on underlying dimension levels.
+  - Diagnostic assessment — produces initial dimension scores; retake recommended every 2–3 months (option to redo after 1 month).
+- **claims**:
+  - Dimensions and skills are distinct but coupled: dimension level bounds/enables skill execution quality (e.g., non-linear note-taking skill requires sufficient deep-processing and self-regulation dimensions; mindset must be sufficiently high just to learn the skill at all).
+  - Dimensions improve indirectly — via learning new skills/techniques and building new habits through lesson practice, not via direct dimension-targeted training.
+  - Dimensions improve at different rates: deep processing and mindset require substantial cognitive retraining (slower); retrieval is more technique-focused (faster to improve).
+- **procedures**: None stepwise (conceptual framework article).
+- **criteria**: Diagnostic reassessment cadence — every 2–3 months recommended; earliest allowed retake = 1 month after prior assessment.
+- **failure-modes**: None diagnosed explicitly.
+- **examples**: Non-linear note-taking (skill) requiring deep processing + self-regulation (dimensions) — demonstrates the dimension-gates-skill relationship concretely.
+- **tables**: None.
+- **figures**: None.
+- **relations**: Explains the dimensions/skills architecture underlying the whole program's diagnostic-assessment and lesson-tagging system — likely a core conceptual primitive that other Learning Support articles (e.g., 30-day-challenge-instructions' "archetype," lesson-progress-speed's competence stages) presuppose.
+- **sophistication**: Likely canonical treatment of the dimensions-vs-skills distinction for this corpus chunk — precise, compact, foundational.
+- **scaffold**: None pure — conceptual-framework content throughout, directly relevant to program mechanics.
+- **video-gap**: none.
+- **not-captured**: none.
+
+## ics-learning-support/using-the-icanstudy-program/lesson-progress-speed.md
+- **stage**: Learning Support / Using the iCanStudy program
+- **role**: Guide — pacing/progression rules across lessons and phases, with conscious-competence diagnostic
+- **terms**:
+  - Conscious competence model (7-stage, ICS-elaborated) — unconscious incompetence → low-to-moderate conscious incompetence → high conscious incompetence → low conscious competence → moderate conscious competence → high conscious competence → unconscious competence; each stage has diagnostic signs (see table).
+  - Moderate conscious competence — threshold competence level required (≥80% consistency/accuracy) before advancing to new techniques.
+- **claims**:
+  - Rate of technique-mastery progress = function of rate of experimentation × rate of reflection; slow progress is rarely a technique-difficulty problem and almost always an experimentation/reflection-frequency problem.
+  - Learning >3 techniques simultaneously causes overload/technique failure because techniques interact multiplicatively in a system even if each is simple alone (illustrated via spinning-top analogy).
+  - Systems that become too complex/entangled make root-cause identification for problems very difficult, often requiring specialist-coach intervention.
+  - More than 4–5 hours/week of theory has a detrimental effect on completion time due to overload; changes in theory time beyond the recommended range have minimal effect on completion/mastery time.
+  - Reflection quality is bounded by the quality of prior Kolb's stages — spending >45 min on reflection is unlikely to yield extra benefit if earlier stages (e.g., "reflection" itself) are weak; skill in self-awareness eventually compresses this stage to ~10 minutes.
+  - Declining technique level (especially as system grows more advanced) signals a need to pause and consolidate (2–4 weeks) before adding new techniques.
+- **procedures**: None as a single numbered method; the article's core content is criteria/thresholds + an FAQ-organized rationale (see criteria below).
+- **criteria** (exact, quantitative/decision rules):
+  - Do not advance if >3 actionable/practicable items remain in task list.
+  - Do not advance unless current technique set is executed at ≥80% consistency and accuracy (≈ moderate conscious competence).
+  - Ready to advance if: (1) feel comfortable with current techniques; (2) have practiced them under varying challenges/subjects.
+  - Must NOT progress if: (1) techniques not yet practiced; (2) >3 new techniques not yet at moderate conscious competence.
+  - Max 3 techniques learned at a time (at most) — even if each is individually simple, due to multiplicative system complexity.
+  - Practice-time guidance (if experimentation/reflection/frequency criteria are met): 5–10 hours per technique in High-yield phase; 20–30 hours per technique in Growth phase.
+  - Weekly schedule: 2–3 hours theory over the weekend (2–3 new techniques); 15–30 hours practice during the following week; reflection daily if possible, minimum 3x/week, capped at 30–45 min/session; feedback sought at least weekly.
+  - Expected outcome: moderate conscious competence for most techniques within ~2 weeks under this schedule.
+  - If technique level declines (esp. as system advances): pause 2–4 weeks to consolidate before adding new techniques.
+- **failure-modes**: Progressing with >3 unmastered techniques → overload/technique failure (systemic, not just individual-technique risk). Rushing reflection (<10 min when not yet skilled) → low self-awareness signal, limits quality of abstraction/experiment stages. Overloading theory time (>4–5 hrs/week) → detrimental to completion.
+- **examples**: Spinning-top analogy — single top is easy to predict; two tops interacting become unpredictable in clash timing/outcome; three tops compound further — demonstrates why >3 simultaneous techniques cause disproportionate system complexity despite individual simplicity.
+- **tables**:
+  - Competence-level table — 7 rows (unconscious incompetence, low-to-moderate conscious incompetence, high conscious incompetence, low conscious competence, moderate conscious competence, high conscious competence, unconscious competence), each mapped to observable diagnostic signs.
+  - Completion-timeline table — 3 rows mapping weekly practice-hour scenarios (all at 2–3 hrs theory/week; 30, 15, or 5 hrs practice/week) to High-yield phase completion time (4–6 wks / 6–12 wks / 8 wks–4 months) and Growth phase completion time (4–7 months / 6–10 months / 12–20 months).
+- **figures**: "Spinning top.jpeg" — image of a single spinning top, anchors the multiplicative-complexity analogy for the >3-techniques-at-once rule.
+- **relations**: Operationalizes the dimensions/skills and conscious-competence constructs (improving-skills.md; Kolb's) into concrete pacing rules; references Kolb's reflection-quality dependency directly.
+- **sophistication**: Canonical treatment of progression pacing/thresholds for this corpus chunk — most quantitatively precise article in the set.
+- **scaffold**: None pure — dense criteria/mechanism content throughout, FAQ structure carries substantive rules, not just navigation.
+- **video-gap**: none.
+- **not-captured**: none.
